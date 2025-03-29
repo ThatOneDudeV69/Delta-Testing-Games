@@ -3,30 +3,31 @@
 -- ❌ for ban/kick
 -- 🟡 Works for some people 
 
-Arsenal - ID: 286090429                       ✅     
-Basketball Legends - ID: 2450119829             
-Bayside High School - ID: 4777502533             
-Car Crushers 2 - ID: 350110587                  
-Chained [2 Player Obby] - ID: 1183927746       
-Clip It - ID: 1022082300                      
-Drive World - ID: 4777502533                   
-Fisch - ID: 124180448122765                   ✅  
-Hell’s Kitchen - ID: 124180448122765            
-Infection Gunfight - ID: 124180448122765          
-It Girl - ID: 124180448122765                  
-Pet Simulator 99 - ID: 124180448122765        ✅       
-Pressure - ID: 124180448122765                 
-Regretevator - ID: 124180448122765            
-Rivals - ID: 124180448122765                  ✅ 
-SpongeBob Tower Defense - ID: 124180448122765  
-Tower Defense Simulator - ID: 124180448122765 
-Untitled Tag Game - ID: 124180448122765       
-World Zero - ID: 124180448122765              
-Blade League - ID: 124180448122765            
-Natural Disaster Survival - ID: 189890007     
-Eat the World - ID: 124180448122765             
-Metro Life - ID: 124180448122765              
+
+A Dusty Trip - ID: 124180448122765
+Arsenal - ID: 286090429                       ✅
+Basketball Legends - ID: 2450119829
+Bayside High School - ID: 4777502533
+Car Crushers 2 - ID: 350110587
+Chained [2 Player Obby] - ID: 1183927746
+Clip It - ID: 1022082300
+Drive World - ID: 4777502533
+Fisch - ID: 124180448122765                   ✅
+Hellâ€™s Kitchen - ID: 124180448122765
+Infection Gunfight - ID: 124180448122765
+It Girl - ID: 124180448122765
+Pet Simulator 99 - ID: 124180448122765        ✅
+Pressure - ID: 124180448122765
+Regretevator - ID: 124180448122765
+Rivals - ID: 124180448122765                  ✅
+SpongeBob Tower Defense - ID: 124180448122765
+Tower Defense Simulator - ID: 124180448122765
+Untitled Tag Game - ID: 124180448122765
+World Zero - ID: 124180448122765
+Blade League - ID: 124180448122765
+Natural Disaster Survival - ID: 189890007
+Eat the World - ID: 124180448122765
+Metro Life - ID: 124180448122765
 Untitled Boxing Game - ID: 124180448122765    🟡
-Blox Fruits                                     
-Blue Lock Rivals                              ✅    Bronx  -                                      
-Blade ball -                                  
+Blox fruits:                                  🟡
+Blue lock rivals:                             ✅
