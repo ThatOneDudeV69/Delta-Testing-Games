@@ -18,7 +18,7 @@ Infection Gunfight - ID: 124180448122765
 It Girl - ID: 124180448122765                 ✅
 Pet Simulator 99 - ID: 124180448122765        ✅
 Pressure - ID: 124180448122765                ✅
-Regretevator - ID: 124180448122765
+Regretevator - ID: 124180448122765            ❌
 Rivals - ID: 124180448122765                  ✅
 SpongeBob Tower Defense - ID: 124180448122765
 Tower Defense Simulator - ID: 124180448122765
