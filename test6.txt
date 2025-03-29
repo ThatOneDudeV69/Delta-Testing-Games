@@ -14,7 +14,7 @@ Fisch - ID: 124180448122765                   ✅
 Hell’s Kitchen - ID: 124180448122765            
 Infection Gunfight - ID: 124180448122765          
 It Girl - ID: 124180448122765                  
-Pet Simulator 99 - ID: 124180448122765         
+Pet Simulator 99 - ID: 124180448122765        ✅       
 Pressure - ID: 124180448122765                 
 Regretevator - ID: 124180448122765            
 Rivals - ID: 124180448122765                  ✅ 
@@ -28,5 +28,5 @@ Eat the World - ID: 124180448122765
 Metro Life - ID: 124180448122765              
 Untitled Boxing Game - ID: 124180448122765    🟡
 Blox Fruits                                     
-Blue Lock Rivals                                     Bronx  -                                      
+Blue Lock Rivals                              ✅    Bronx  -                                      
 Blade ball -                                  
