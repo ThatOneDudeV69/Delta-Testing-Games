@@ -2,7 +2,7 @@
 -- ✅ for no ban
 -- ❌ for ban/kick
 -- 🟡 Works for some people
--- 🟧 Scripts are detecte
+-- 🟧 Scripts are detected
 
 
 A Dusty Trip - ID: 124180448122765
