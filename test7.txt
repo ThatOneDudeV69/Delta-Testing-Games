@@ -1,3 +1,10 @@
+-- No sign means not Checked
+-- ✅ for no ban
+-- ❌ for ban/kick
+-- 🟡 Works for some people
+-- 🟧 Scripts are detecte
+
+
 A Dusty Trip - ID: 124180448122765
 Arsenal - ID: 286090429
 Basketball Legends - ID: 2450119829
