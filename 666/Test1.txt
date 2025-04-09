@@ -14,9 +14,9 @@ Drive World - ID: 4777502533
 Fisch - ID: 124180448122765                    ✅
 Hellâ€™s Kitchen - ID: 124180448122765
 Infection Gunfight - ID: 124180448122765
-It Girl - ID: 124180448122765
+It Girl - ID: 124180448122765                  ✅
 Pet Simulator 99 - ID: 124180448122765
-Pressure - ID: 124180448122765
+Pressure - ID: 124180448122765                 ✅
 Regretevator - ID: 124180448122765
 Rivals - ID: 124180448122765
 SpongeBob Tower Defense - ID: 124180448122765
@@ -24,7 +24,7 @@ Tower Defense Simulator - ID: 124180448122765
 Untitled Tag Game - ID: 124180448122765
 World Zero - ID: 124180448122765               ✅
 Blade League - ID: 124180448122765             ✅
-Natural Disaster Survival - ID: 189890007
+Natural Disaster Survival - ID: 189890007      ✅
 Eat the World - ID: 124180448122765
 Metro Life - ID: 124180448122765
 Untitled Boxing Game - ID: 124180448122765     🟧
