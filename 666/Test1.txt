@@ -28,5 +28,5 @@ Natural Disaster Survival - ID: 189890007
 Eat the World - ID: 124180448122765
 Metro Life - ID: 124180448122765
 Untitled Boxing Game - ID: 124180448122765     🟧
-Dead Rails + ID: 116495829188952               ✅      
+Dead Rails - ID: 116495829188952               ✅   Blue Lock Rivals - ID: 18668065416             ✅
 ```
