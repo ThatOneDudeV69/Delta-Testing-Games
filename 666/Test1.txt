@@ -4,7 +4,7 @@
 -- 🟡 Works for some people 
 -- 🟧 Scripts aren't working
 -- 🔶 Some scripts are working
-A Dusty Trip - ID: 124180448122765
+A Dusty Trip - ID: 124180448122765             ✅
 Arsenal - ID: 286090429
 Basketball Legends - ID: 2450119829
 Bayside High School - ID: 4777502533
@@ -19,7 +19,7 @@ It Girl - ID: 124180448122765                  ✅
 Pet Simulator 99 - ID: 124180448122765
 Pressure - ID: 124180448122765                 ✅
 Regretevator - ID: 124180448122765
-Rivals - ID: 124180448122765
+Rivals - ID: 124180448122765                   ✅
 SpongeBob Tower Defense - ID: 124180448122765
 Tower Defense Simulator - ID: 124180448122765
 Untitled Tag Game - ID: 124180448122765
